@@ -5,7 +5,7 @@ Step by step procedures to Install Nagios XI Server in Centos 7
 
 # Update your centos os
 
-#  yum install update
+#  yum update -y 
 
 #  yum install wget
 
